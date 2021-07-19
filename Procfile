@@ -1,1 +1,1 @@
-worker: python emjapp.py
+web: python emjapp.py
